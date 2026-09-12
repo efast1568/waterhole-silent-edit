@@ -23,7 +23,7 @@ A Waterhole extension that allows authorized users to clear edit information fro
 Install the extension with Composer:
 
 ```bash
-composer require efast1568/waterhole-silent-edit
+composer require subarist/waterhole-silent-edit
 ```
 
 Enable the extension from the Waterhole Administration Control Panel.
