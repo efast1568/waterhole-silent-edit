@@ -1,0 +1,24 @@
+{
+    "name": "subarist/waterhole-silent-edit",
+    "type": "waterhole-extension",
+    "description": "Clear edit information from Waterhole posts and comments",
+    "license": "MIT",
+    "require": {
+        "waterhole/core": "^0.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Waterhole\\SilentEdit\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Waterhole\\SilentEdit\\SilentEditServiceProvider"
+            ]
+        },
+        "waterhole": {
+            "name": "Silent Edit"
+        }
+    }
+}
