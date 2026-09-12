@@ -4,7 +4,7 @@
     "description": "Clear edit information from Waterhole posts and comments",
     "license": "MIT",
     "require": {
-        "waterhole/core": "^0.7"
+        "waterhole/core": "^0.7 || dev-main"
     },
     "autoload": {
         "psr-4": {
