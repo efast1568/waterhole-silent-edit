@@ -13,6 +13,9 @@ A Waterhole extension that allows authorized users to clear edit information fro
 * Supports English and Traditional Chinese translations.
 * Uses the `tabler-pencil-off` icon.
 
+<img width="1916" height="798" alt="image" src="https://github.com/user-attachments/assets/cad35497-256a-4cf5-abc0-8f348c6bdc5a" />
+
+
 ## Requirements
 
 * Waterhole 0.7.x
